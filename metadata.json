@@ -4,5 +4,6 @@
   "uuid": "restart-gnome@0ct0puce.com",
   "shell-version": [
     "43"
-  ]
+  ],
+  "url": "https://github.com/0CT0PUCE-LOG/gnome-shell-extension-restart-gnome"
 }
