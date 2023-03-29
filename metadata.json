@@ -1,0 +1,8 @@
+{
+  "name": "Restart Gnome",
+  "description": "Button in top panel that restart Gnome when clicked.",
+  "uuid": "restart-gnome@0ct0puce.com",
+  "shell-version": [
+    "43"
+  ]
+}
