@@ -1,9 +1,9 @@
 {
-  "name": "Restart Gnome",
-  "description": "Button in top panel that restart Gnome when clicked.",
-  "uuid": "restart-gnome@0ct0puce.com",
+  "name": "Logout Button",
+  "description": "Button in top panel that restart Gnome when clicked by logging out.",
+  "uuid": "logout-button@0ct0puce.com",
   "shell-version": [
     "43"
   ],
-  "url": "https://github.com/0CT0PUCE-LOG/gnome-shell-extension-restart-gnome"
+  "url": "https://github.com/0CT0PUCE-LOG/gnome-shell-extension-logout-button"
 }
