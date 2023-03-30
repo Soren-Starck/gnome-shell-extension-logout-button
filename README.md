@@ -1,4 +1,4 @@
-<h1 align="center">gnome-shell-extension-restart-gnome</h1>
+<h1 align="center">gnome-shell-extension-restart-logout-button</h1>
 
 Button in top panel that restart Gnome when clicked. It simulates a logout which force gnome to restart.
 
