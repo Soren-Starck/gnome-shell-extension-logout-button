@@ -1,6 +1,6 @@
 {
   "name": "Logout Button",
-  "description": "Button in top panel that restart Gnome when clicked by logging out.",
+  "description": "Logout button easily accessible in the top panel. It could be useful as it restart gnome everytime you click it.",
   "uuid": "logout-button@0ct0puce.com",
   "shell-version": [
     "43"
